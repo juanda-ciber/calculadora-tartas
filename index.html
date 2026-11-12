@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Calculadora de Tartas</title>
+  <meta name="theme-color" content="#b5456b">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="iconos/icono.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="iconos/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Tartas">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <main id="app" aria-live="polite">
+    <p class="cargando">Cargando…</p>
+  </main>
+
+  <nav class="menu" aria-label="Menú principal">
+    <a href="#/tartas" data-seccion="tartas"><span aria-hidden="true">🎂</span>Tartas</a>
+    <a href="#/bases" data-seccion="bases"><span aria-hidden="true">🥣</span>Bases</a>
+    <a href="#/productos" data-seccion="productos"><span aria-hidden="true">🧺</span>Productos</a>
+    <a href="#/proveedores" data-seccion="proveedores"><span aria-hidden="true">🏪</span>Tiendas</a>
+    <a href="#/ajustes" data-seccion="ajustes"><span aria-hidden="true">⚙️</span>Ajustes</a>
+  </nav>
+
+  <div id="aviso" class="aviso" role="status" hidden></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

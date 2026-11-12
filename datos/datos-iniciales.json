@@ -1,0 +1,1795 @@
+{
+  "version": 1,
+  "productos": [
+    {
+      "id": "p-aceite-vegetal",
+      "nombre": "Aceite vegetal",
+      "tipo": "ingrediente",
+      "categoria": "Aceites y grasas",
+      "medida": "volumen",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-aceite-vegetal-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "L",
+          "precio": 2.05,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-agua",
+      "nombre": "Agua",
+      "tipo": "ingrediente",
+      "categoria": "Otros ingredientes",
+      "medida": "volumen",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-agua-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "L",
+          "precio": 0,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-almidon-de-maiz",
+      "nombre": "Almidón de maíz",
+      "tipo": "ingrediente",
+      "categoria": "Harinas y féculas",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-almidon-de-maiz-1",
+          "proveedorId": null,
+          "cantidad": 0.4,
+          "unidad": "kg",
+          "precio": 3.29,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-azucar",
+      "nombre": "Azúcar",
+      "tipo": "ingrediente",
+      "categoria": "Azúcares y dulces",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-azucar-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "kg",
+          "precio": 1.75,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-bicarbonato-de-sodio",
+      "nombre": "Bicarbonato de sodio",
+      "tipo": "ingrediente",
+      "categoria": "Levaduras e impulsores",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-bicarbonato-de-sodio-1",
+          "proveedorId": null,
+          "cantidad": 0.3,
+          "unidad": "kg",
+          "precio": 1.45,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-cacao-en-polvo",
+      "nombre": "Cacao en polvo",
+      "tipo": "ingrediente",
+      "categoria": "Chocolate y cacao",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-cacao-en-polvo-1",
+          "proveedorId": null,
+          "cantidad": 0.265,
+          "unidad": "kg",
+          "precio": 3.35,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-canela-en-polvo",
+      "nombre": "Canela en polvo",
+      "tipo": "ingrediente",
+      "categoria": "Aromas, especias y colorantes",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-canela-en-polvo-1",
+          "proveedorId": null,
+          "cantidad": 0.052,
+          "unidad": "kg",
+          "precio": 0.77,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-chantilli-vegetal",
+      "nombre": "Chantillí vegetal",
+      "tipo": "ingrediente",
+      "categoria": "Lácteos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-chantilli-vegetal-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "kg",
+          "precio": 6.67,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-chocolate-30",
+      "nombre": "Chocolate 30%",
+      "tipo": "ingrediente",
+      "categoria": "Chocolate y cacao",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-chocolate-30-1",
+          "proveedorId": null,
+          "cantidad": 0.2,
+          "unidad": "kg",
+          "precio": 2.25,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-chocolate-50",
+      "nombre": "Chocolate 50%",
+      "tipo": "ingrediente",
+      "categoria": "Chocolate y cacao",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-chocolate-50-1",
+          "proveedorId": null,
+          "cantidad": 0.2,
+          "unidad": "kg",
+          "precio": 2.25,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-cobertura-de-chocolate",
+      "nombre": "Cobertura de chocolate",
+      "tipo": "ingrediente",
+      "categoria": "Chocolate y cacao",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-coco-rallado",
+      "nombre": "Coco rallado",
+      "tipo": "ingrediente",
+      "categoria": "Frutas y frutos secos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-coco-rallado-1",
+          "proveedorId": null,
+          "cantidad": 0.125,
+          "unidad": "kg",
+          "precio": 1.3,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-colorante",
+      "nombre": "Colorante",
+      "tipo": "ingrediente",
+      "categoria": "Aromas, especias y colorantes",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-colorante-1",
+          "proveedorId": null,
+          "cantidad": 0.025,
+          "unidad": "kg",
+          "precio": 8.5,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-crema-de-avellana-nutella",
+      "nombre": "Crema de avellana (Nutella)",
+      "tipo": "ingrediente",
+      "categoria": "Chocolate y cacao",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-crema-de-avellana-nutella-1",
+          "proveedorId": null,
+          "cantidad": 0.35,
+          "unidad": "kg",
+          "precio": 3.99,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-crema-de-leche",
+      "nombre": "Crema de leche",
+      "tipo": "ingrediente",
+      "categoria": "Lácteos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-crema-de-leche-1",
+          "proveedorId": null,
+          "cantidad": 0.6,
+          "unidad": "kg",
+          "precio": 1.99,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-emulsionante",
+      "nombre": "Emulsionante",
+      "tipo": "ingrediente",
+      "categoria": "Otros ingredientes",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-esencia-de-vainilla",
+      "nombre": "Esencia de vainilla",
+      "tipo": "ingrediente",
+      "categoria": "Aromas, especias y colorantes",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-esencia-de-vainilla-1",
+          "proveedorId": null,
+          "cantidad": 0.15,
+          "unidad": "kg",
+          "precio": 2.01,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-frutos-frescos-o-congelados",
+      "nombre": "Frutos frescos o congelados",
+      "tipo": "ingrediente",
+      "categoria": "Frutas y frutos secos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-frutos-frescos-o-congelados-1",
+          "proveedorId": null,
+          "cantidad": 0.3,
+          "unidad": "kg",
+          "precio": 1.9,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-frutos-secos",
+      "nombre": "Frutos secos",
+      "tipo": "ingrediente",
+      "categoria": "Frutas y frutos secos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-frutos-secos-1",
+          "proveedorId": null,
+          "cantidad": 0.2,
+          "unidad": "kg",
+          "precio": 2.2,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-harina",
+      "nombre": "Harina",
+      "tipo": "ingrediente",
+      "categoria": "Harinas y féculas",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-harina-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "kg",
+          "precio": 1.61,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-huevos",
+      "nombre": "Huevos",
+      "tipo": "ingrediente",
+      "categoria": "Huevos",
+      "medida": "unidades",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-huevos-1",
+          "proveedorId": null,
+          "cantidad": 30,
+          "unidad": "ud",
+          "precio": 7.5,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ],
+      "pesoUnidad": 55
+    },
+    {
+      "id": "p-isomalt",
+      "nombre": "Isomalt",
+      "tipo": "ingrediente",
+      "categoria": "Decoración comestible",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-leche-condensada",
+      "nombre": "Leche condensada",
+      "tipo": "ingrediente",
+      "categoria": "Lácteos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-leche-condensada-1",
+          "proveedorId": null,
+          "cantidad": 0.397,
+          "unidad": "kg",
+          "precio": 2.55,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-leche-de-coco",
+      "nombre": "Leche de coco",
+      "tipo": "ingrediente",
+      "categoria": "Lácteos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-leche-de-coco-1",
+          "proveedorId": null,
+          "cantidad": 0.4,
+          "unidad": "kg",
+          "precio": 1.45,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-leche-en-polvo",
+      "nombre": "Leche en polvo",
+      "tipo": "ingrediente",
+      "categoria": "Lácteos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-leche-en-polvo-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "kg",
+          "precio": 6.25,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-leche-entera",
+      "nombre": "Leche entera",
+      "tipo": "ingrediente",
+      "categoria": "Lácteos",
+      "medida": "volumen",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-leche-entera-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "L",
+          "precio": 0.97,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-limon",
+      "nombre": "Limón",
+      "tipo": "ingrediente",
+      "categoria": "Frutas y frutos secos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-limon-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "kg",
+          "precio": 2.29,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-mantequilla",
+      "nombre": "Mantequilla",
+      "tipo": "ingrediente",
+      "categoria": "Lácteos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-mantequilla-1",
+          "proveedorId": null,
+          "cantidad": 0.25,
+          "unidad": "kg",
+          "precio": 2.05,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-merengue-en-polvo",
+      "nombre": "Merengue en polvo",
+      "tipo": "ingrediente",
+      "categoria": "Azúcares y dulces",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-papel-de-arroz",
+      "nombre": "Papel de arroz",
+      "tipo": "ingrediente",
+      "categoria": "Decoración comestible",
+      "medida": "unidades",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-polvo-de-hornear",
+      "nombre": "Polvo de hornear",
+      "tipo": "ingrediente",
+      "categoria": "Levaduras e impulsores",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-polvo-de-hornear-1",
+          "proveedorId": null,
+          "cantidad": 0.08,
+          "unidad": "kg",
+          "precio": 2.25,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-queso-crema-cream-cheese",
+      "nombre": "Queso crema (cream cheese)",
+      "tipo": "ingrediente",
+      "categoria": "Lácteos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-queso-crema-cream-cheese-1",
+          "proveedorId": null,
+          "cantidad": 0.3,
+          "unidad": "kg",
+          "precio": 1.4,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-ron",
+      "nombre": "Ron",
+      "tipo": "ingrediente",
+      "categoria": "Licores",
+      "medida": "volumen",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-sal",
+      "nombre": "Sal",
+      "tipo": "ingrediente",
+      "categoria": "Aromas, especias y colorantes",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-sal-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "kg",
+          "precio": 2.65,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-uvas-pasas",
+      "nombre": "Uvas pasas",
+      "tipo": "ingrediente",
+      "categoria": "Frutas y frutos secos",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-uvas-pasas-1",
+          "proveedorId": null,
+          "cantidad": 0.25,
+          "unidad": "kg",
+          "precio": 2,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-vinagre",
+      "nombre": "Vinagre",
+      "tipo": "ingrediente",
+      "categoria": "Otros ingredientes",
+      "medida": "volumen",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-vinagre-1",
+          "proveedorId": null,
+          "cantidad": 1.01,
+          "unidad": "L",
+          "precio": 2.25,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-velas",
+      "nombre": "Velas",
+      "tipo": "material",
+      "categoria": "Decoración",
+      "medida": "unidades",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-velas-1",
+          "proveedorId": null,
+          "cantidad": 6,
+          "unidad": "ud",
+          "precio": 2.46,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-caja",
+      "nombre": "Caja",
+      "tipo": "material",
+      "categoria": "Packaging",
+      "medida": "unidades",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-caja-1",
+          "proveedorId": null,
+          "cantidad": 1,
+          "unidad": "ud",
+          "precio": 2.4,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-base-o-cakeboard",
+      "nombre": "Base o cakeboard",
+      "tipo": "material",
+      "categoria": "Packaging",
+      "medida": "unidades",
+      "usarPrecio": "barato",
+      "precios": [
+        {
+          "id": "pr-base-o-cakeboard-1",
+          "proveedorId": null,
+          "cantidad": 6,
+          "unidad": "ud",
+          "precio": 3.4,
+          "fecha": "2026-11-11",
+          "nombreTienda": "",
+          "enlace": "",
+          "nota": "Importado del Excel del curso",
+          "historial": []
+        }
+      ]
+    },
+    {
+      "id": "p-topper",
+      "nombre": "Topper",
+      "tipo": "material",
+      "categoria": "Decoración",
+      "medida": "unidades",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-etiquetas",
+      "nombre": "Etiquetas",
+      "tipo": "material",
+      "categoria": "Packaging",
+      "medida": "unidades",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-flores-naturales",
+      "nombre": "Flores naturales",
+      "tipo": "material",
+      "categoria": "Decoración",
+      "medida": "unidades",
+      "usarPrecio": "barato",
+      "precios": []
+    },
+    {
+      "id": "p-sprinkles",
+      "nombre": "Sprinkles",
+      "tipo": "material",
+      "categoria": "Decoración",
+      "medida": "peso",
+      "usarPrecio": "barato",
+      "precios": []
+    }
+  ],
+  "proveedores": [
+    {
+      "id": "tienda-mercadona",
+      "nombre": "Mercadona",
+      "web": "mercadona.es"
+    },
+    {
+      "id": "tienda-carrefour",
+      "nombre": "Carrefour",
+      "web": "carrefour.es"
+    },
+    {
+      "id": "tienda-lidl",
+      "nombre": "Lidl",
+      "web": "lidl.es"
+    },
+    {
+      "id": "tienda-dia",
+      "nombre": "Dia",
+      "web": "dia.es"
+    },
+    {
+      "id": "tienda-alcampo",
+      "nombre": "Alcampo",
+      "web": "alcampo.es"
+    },
+    {
+      "id": "tienda-makro",
+      "nombre": "Makro",
+      "web": "makro.es"
+    },
+    {
+      "id": "tienda-amazon",
+      "nombre": "Amazon",
+      "web": "amazon.es"
+    }
+  ],
+  "recetas": [
+    {
+      "id": "r-masa-cremada-de-vainilla",
+      "nombre": "Masa cremada de vainilla",
+      "uso": "preparacion",
+      "categoria": "Bizcochos y masas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 180,
+          "unidad": "g",
+          "productoId": "p-mantequilla"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 350,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 5,
+          "unidad": "ud",
+          "productoId": "p-huevos"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 200,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 80,
+          "unidad": "ml",
+          "productoId": "p-aceite-vegetal"
+        },
+        {
+          "id": "l-6",
+          "cantidad": 350,
+          "unidad": "g",
+          "productoId": "p-harina"
+        },
+        {
+          "id": "l-7",
+          "cantidad": 25,
+          "unidad": "g",
+          "productoId": "p-almidon-de-maiz"
+        },
+        {
+          "id": "l-8",
+          "cantidad": 12,
+          "unidad": "g",
+          "productoId": "p-polvo-de-hornear"
+        },
+        {
+          "id": "l-9",
+          "cantidad": 2,
+          "unidad": "g",
+          "productoId": "p-sal"
+        },
+        {
+          "id": "l-10",
+          "cantidad": 5,
+          "unidad": "g",
+          "productoId": "p-esencia-de-vainilla"
+        }
+      ]
+    },
+    {
+      "id": "r-masa-cremada-de-chocolate",
+      "nombre": "Masa cremada de chocolate",
+      "uso": "preparacion",
+      "categoria": "Bizcochos y masas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 180,
+          "unidad": "g",
+          "productoId": "p-mantequilla"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 350,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 5,
+          "unidad": "ud",
+          "productoId": "p-huevos"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 200,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 80,
+          "unidad": "ml",
+          "productoId": "p-aceite-vegetal"
+        },
+        {
+          "id": "l-6",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-harina"
+        },
+        {
+          "id": "l-7",
+          "cantidad": 25,
+          "unidad": "g",
+          "productoId": "p-almidon-de-maiz"
+        },
+        {
+          "id": "l-8",
+          "cantidad": 6,
+          "unidad": "g",
+          "productoId": "p-polvo-de-hornear"
+        },
+        {
+          "id": "l-9",
+          "cantidad": 2,
+          "unidad": "g",
+          "productoId": "p-sal"
+        },
+        {
+          "id": "l-10",
+          "cantidad": 8,
+          "unidad": "g",
+          "productoId": "p-bicarbonato-de-sodio"
+        },
+        {
+          "id": "l-11",
+          "cantidad": 50,
+          "unidad": "g",
+          "productoId": "p-cacao-en-polvo"
+        }
+      ]
+    },
+    {
+      "id": "r-masa-de-chocolate-por-adicion",
+      "nombre": "Masa de chocolate por adición",
+      "uso": "preparacion",
+      "categoria": "Bizcochos y masas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 4,
+          "unidad": "ud",
+          "productoId": "p-huevos"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 5,
+          "unidad": "g",
+          "productoId": "p-esencia-de-vainilla"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 200,
+          "unidad": "ml",
+          "productoId": "p-aceite-vegetal"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 350,
+          "unidad": "g",
+          "productoId": "p-harina"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 50,
+          "unidad": "g",
+          "productoId": "p-cacao-en-polvo"
+        },
+        {
+          "id": "l-6",
+          "cantidad": 220,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-7",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-8",
+          "cantidad": 12,
+          "unidad": "g",
+          "productoId": "p-polvo-de-hornear"
+        },
+        {
+          "id": "l-9",
+          "cantidad": 8,
+          "unidad": "g",
+          "productoId": "p-bicarbonato-de-sodio"
+        }
+      ]
+    },
+    {
+      "id": "r-masa-metodo-hibrido",
+      "nombre": "Masa método híbrido",
+      "uso": "preparacion",
+      "categoria": "Bizcochos y masas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "Opcional: cacao en polvo. En el Excel el polvo de hornear ponía 1,2 g (en otras masas son 12 g): revisa si es correcto.",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 4,
+          "unidad": "ud",
+          "productoId": "p-huevos"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 200,
+          "unidad": "ml",
+          "productoId": "p-aceite-vegetal"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 230,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 400,
+          "unidad": "g",
+          "productoId": "p-harina"
+        },
+        {
+          "id": "l-6",
+          "cantidad": 1.2,
+          "unidad": "g",
+          "productoId": "p-polvo-de-hornear"
+        }
+      ]
+    },
+    {
+      "id": "r-caramelo-cremoso",
+      "nombre": "Caramelo cremoso",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "Se usa en la masa sabor caramelo.",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 30,
+          "unidad": "g",
+          "productoId": "p-mantequilla"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 200,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 60,
+          "unidad": "ml",
+          "productoId": "p-agua"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 100,
+          "unidad": "g",
+          "productoId": "p-crema-de-leche"
+        }
+      ]
+    },
+    {
+      "id": "r-masa-sabor-caramelo",
+      "nombre": "Masa sabor caramelo",
+      "uso": "preparacion",
+      "categoria": "Bizcochos y masas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 4,
+          "unidad": "ud",
+          "productoId": "p-huevos"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 140,
+          "unidad": "g",
+          "productoId": "p-mantequilla"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 160,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 200,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 140,
+          "unidad": "g",
+          "recetaId": "r-caramelo-cremoso"
+        },
+        {
+          "id": "l-6",
+          "cantidad": 290,
+          "unidad": "g",
+          "productoId": "p-harina"
+        },
+        {
+          "id": "l-7",
+          "cantidad": 40,
+          "unidad": "g",
+          "productoId": "p-almidon-de-maiz"
+        },
+        {
+          "id": "l-8",
+          "cantidad": 15,
+          "unidad": "g",
+          "productoId": "p-polvo-de-hornear"
+        }
+      ]
+    },
+    {
+      "id": "r-masa-aromatica-con-ron-y-frutos-secos",
+      "nombre": "Masa aromática con ron y frutos secos",
+      "uso": "preparacion",
+      "categoria": "Bizcochos y masas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "Opcional: 20 ml más de ron.",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 170,
+          "unidad": "g",
+          "productoId": "p-mantequilla"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 4,
+          "unidad": "ud",
+          "productoId": "p-huevos"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 240,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-harina"
+        },
+        {
+          "id": "l-6",
+          "cantidad": 30,
+          "unidad": "ml",
+          "productoId": "p-ron"
+        },
+        {
+          "id": "l-7",
+          "cantidad": 12,
+          "unidad": "g",
+          "productoId": "p-polvo-de-hornear"
+        },
+        {
+          "id": "l-8",
+          "cantidad": 80,
+          "unidad": "g",
+          "productoId": "p-frutos-secos"
+        },
+        {
+          "id": "l-9",
+          "cantidad": 5,
+          "unidad": "g",
+          "productoId": "p-canela-en-polvo"
+        }
+      ]
+    },
+    {
+      "id": "r-masa-red-velvet",
+      "nombre": "Masa red velvet",
+      "uso": "preparacion",
+      "categoria": "Bizcochos y masas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 100,
+          "unidad": "g",
+          "productoId": "p-mantequilla"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 3,
+          "unidad": "ud",
+          "productoId": "p-huevos"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 300,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 120,
+          "unidad": "ml",
+          "productoId": "p-aceite-vegetal"
+        },
+        {
+          "id": "l-6",
+          "cantidad": 250,
+          "unidad": "g",
+          "productoId": "p-harina"
+        },
+        {
+          "id": "l-7",
+          "cantidad": 50,
+          "unidad": "g",
+          "productoId": "p-almidon-de-maiz"
+        },
+        {
+          "id": "l-8",
+          "cantidad": 15,
+          "unidad": "g",
+          "productoId": "p-cacao-en-polvo"
+        },
+        {
+          "id": "l-9",
+          "cantidad": 8,
+          "unidad": "g",
+          "productoId": "p-bicarbonato-de-sodio"
+        },
+        {
+          "id": "l-10",
+          "cantidad": 5,
+          "unidad": "g",
+          "productoId": "p-esencia-de-vainilla"
+        },
+        {
+          "id": "l-11",
+          "cantidad": 10,
+          "unidad": "ml",
+          "productoId": "p-vinagre"
+        },
+        {
+          "id": "l-12",
+          "cantidad": 20,
+          "unidad": "g",
+          "productoId": "p-limon"
+        },
+        {
+          "id": "l-13",
+          "cantidad": 12,
+          "unidad": "g",
+          "productoId": "p-colorante"
+        }
+      ]
+    },
+    {
+      "id": "r-brigadeiro-de-chocolate",
+      "nombre": "Brigadeiro de chocolate",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 395,
+          "unidad": "g",
+          "productoId": "p-leche-condensada"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-crema-de-leche"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 15,
+          "unidad": "g",
+          "productoId": "p-cacao-en-polvo"
+        }
+      ]
+    },
+    {
+      "id": "r-crema-3-leches",
+      "nombre": "Crema 3 leches",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 395,
+          "unidad": "g",
+          "productoId": "p-leche-condensada"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-crema-de-leche"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 100,
+          "unidad": "g",
+          "productoId": "p-leche-en-polvo"
+        }
+      ]
+    },
+    {
+      "id": "r-brigadeiro-base",
+      "nombre": "Brigadeiro base",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "Base para saborizar (por ejemplo con la reducción de fruta).",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 395,
+          "unidad": "g",
+          "productoId": "p-leche-condensada"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-crema-de-leche"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 50,
+          "unidad": "g",
+          "productoId": "p-cacao-en-polvo"
+        }
+      ]
+    },
+    {
+      "id": "r-reduccion-de-fruta",
+      "nombre": "Reducción de fruta",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "Para saborizar el brigadeiro base.",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 600,
+          "unidad": "g",
+          "productoId": "p-frutos-frescos-o-congelados"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 50,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 10,
+          "unidad": "g",
+          "productoId": "p-limon"
+        }
+      ]
+    },
+    {
+      "id": "r-dulce-de-leche",
+      "nombre": "Dulce de leche",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 395,
+          "unidad": "g",
+          "productoId": "p-leche-condensada"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 200,
+          "unidad": "g",
+          "productoId": "p-crema-de-leche"
+        }
+      ]
+    },
+    {
+      "id": "r-brigadeiro-de-cream-cheese",
+      "nombre": "Brigadeiro de cream cheese",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 395,
+          "unidad": "g",
+          "productoId": "p-leche-condensada"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 300,
+          "unidad": "g",
+          "productoId": "p-crema-de-leche"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 120,
+          "unidad": "g",
+          "productoId": "p-queso-crema-cream-cheese"
+        }
+      ]
+    },
+    {
+      "id": "r-ganache-ferrero-rocher",
+      "nombre": "Ganache Ferrero Rocher",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 200,
+          "unidad": "g",
+          "productoId": "p-chocolate-50"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 200,
+          "unidad": "g",
+          "productoId": "p-chocolate-30"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 100,
+          "unidad": "g",
+          "productoId": "p-crema-de-avellana-nutella"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 150,
+          "unidad": "g",
+          "productoId": "p-frutos-secos"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 230,
+          "unidad": "g",
+          "productoId": "p-crema-de-leche"
+        }
+      ]
+    },
+    {
+      "id": "r-crema-de-coco",
+      "nombre": "Crema de coco",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 395,
+          "unidad": "g",
+          "productoId": "p-leche-condensada"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 130,
+          "unidad": "g",
+          "productoId": "p-leche-de-coco"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 100,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 120,
+          "unidad": "g",
+          "productoId": "p-coco-rallado"
+        },
+        {
+          "id": "l-5",
+          "cantidad": 15,
+          "unidad": "g",
+          "productoId": "p-almidon-de-maiz"
+        }
+      ]
+    },
+    {
+      "id": "r-praline",
+      "nombre": "Praliné",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 200,
+          "unidad": "g",
+          "productoId": "p-frutos-secos"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 200,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        }
+      ]
+    },
+    {
+      "id": "r-super-chantilli",
+      "nombre": "Súper chantillí",
+      "uso": "preparacion",
+      "categoria": "Coberturas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "Opcional: merengue en polvo, emulsionante, leche condensada (hidratación) y colorante.",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 1000,
+          "unidad": "g",
+          "productoId": "p-chantilli-vegetal"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 150,
+          "unidad": "g",
+          "productoId": "p-leche-en-polvo"
+        }
+      ]
+    },
+    {
+      "id": "r-crema-pastelera",
+      "nombre": "Crema pastelera",
+      "uso": "preparacion",
+      "categoria": "Rellenos y cremas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "Opcional: chocolate 50%.",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 200,
+          "unidad": "ml",
+          "productoId": "p-leche-entera"
+        },
+        {
+          "id": "l-2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "productoId": "p-huevos"
+        },
+        {
+          "id": "l-3",
+          "cantidad": 50,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        },
+        {
+          "id": "l-4",
+          "cantidad": 30,
+          "unidad": "g",
+          "productoId": "p-almidon-de-maiz"
+        }
+      ]
+    },
+    {
+      "id": "r-merengue-italiano",
+      "nombre": "Merengue italiano",
+      "uso": "preparacion",
+      "categoria": "Coberturas",
+      "raciones": null,
+      "molde": null,
+      "minutos": null,
+      "pesoFinal": null,
+      "notas": "En el Excel solo tenía el azúcar: completa el resto de ingredientes.",
+      "lineas": [
+        {
+          "id": "l-1",
+          "cantidad": 400,
+          "unidad": "g",
+          "productoId": "p-azucar"
+        }
+      ]
+    }
+  ],
+  "ajustes": {
+    "diasAvisoPrecio": 90,
+    "categoriasIngrediente": [
+      "Harinas y féculas",
+      "Azúcares y dulces",
+      "Lácteos",
+      "Huevos",
+      "Chocolate y cacao",
+      "Frutas y frutos secos",
+      "Aceites y grasas",
+      "Levaduras e impulsores",
+      "Aromas, especias y colorantes",
+      "Licores",
+      "Decoración comestible",
+      "Otros ingredientes"
+    ],
+    "categoriasMaterial": [
+      "Packaging",
+      "Decoración",
+      "Otros materiales"
+    ],
+    "categoriasVenta": [
+      "Bizcochos",
+      "Cheesecakes",
+      "Tartas de nata",
+      "Tartas de fondant",
+      "Cupcakes",
+      "Galletas",
+      "Otros postres"
+    ],
+    "categoriasPreparacion": [
+      "Bizcochos y masas",
+      "Rellenos y cremas",
+      "Coberturas",
+      "Otras preparaciones"
+    ],
+    "recetasExcelImportadas": true
+  }
+}
